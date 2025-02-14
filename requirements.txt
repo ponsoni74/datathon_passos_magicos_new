@@ -11,4 +11,3 @@ plotly
 requests
 matplotlib
 scipy
-pickle
