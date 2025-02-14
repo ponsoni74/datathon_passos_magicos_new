@@ -21,15 +21,9 @@ Com base em informações educacionais, psicossociais e psicopedagogicas dos est
 
 ### Notebooks e Arquivos.py 📓
 
-Os principais arquivos Jupyter Notebooks (.ipynb) e Python/Streamlit (.py) utilizados no projeto são:
-- [app.py](https://github.com/ponsoni74.ipynb) 
-- [presentation.py]
-- [datathon_specs.py]
-- [data_analytics.py]
-- [bolsa_estudos_model.py]
-- [ponto_virada_model.py]
-- [datathon_passos_v2.ipynb]
-- [models_building.ipynb](https://github.com/ponsoni74.ipynb)
+Os principais arquivos Jupyter Notebooks (.ipynb) utilizados no projeto são:
+- [https://github.com/ponsoni74/datathon_passos_magicos_new/blob/main/dashboards_datathon_passos.ipynb]
+- [https://github.com/ponsoni74/app_datathon_passos_magicos/blob/main/models_building.ipynb]
 
 ### Dados 🎲
 
