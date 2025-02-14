@@ -204,9 +204,9 @@ Para fazer uso do modelo, é necessário informar nos campos abaixo os indicador
             # Displaying the result of the prediction
             if prediction.round()[0] > 0:
                 st.success(
-                    ":white_check_mark: **O aluno apresenta alta probabilidade de alcançar o ponto de virada e passar para um nível de desenvolvimento mais elevado. 🏆"
+                    ":white_check_mark: O aluno apresenta alta probabilidade de alcançar o ponto de virada e passar para um nível de desenvolvimento mais elevado. 🏆"
                 )
             else:
                 st.error(
-                    ":x: **O aluno apresenta baixa probabilidade de alcançar o ponto de virada e passar para um nível de desenvolvimento mais elevado. 😞"
+                    ":x: O aluno apresenta baixa probabilidade de alcançar o ponto de virada e passar para um nível de desenvolvimento mais elevado. 😞"
                 )
